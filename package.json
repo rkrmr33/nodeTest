@@ -1,0 +1,14 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "simple electron test",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "roi kramer",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^1.6.11"
+  }
+}
